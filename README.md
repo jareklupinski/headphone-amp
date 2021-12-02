@@ -1,7 +1,7 @@
 # headphone-amp
 A simple headphone amp / signal buffer for balanced audio sources.
 
-This design uses a TPS65131 to generate +-12V from a USB-C 5V input.
+This design uses a TPS65131 to generate +-15V from a USB-C 5V input.
 
 Originally, I wanted to use the INA1620, as its datasheet basically spells out that its intended use is as a headphone driver.
 
