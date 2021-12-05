@@ -7,6 +7,6 @@ Originally, I wanted to use the INA1620, as its datasheet basically spells out t
 
 The opamp OPA1612 was chosen instead, as it seems to be basically the same chip, but without the integrated resistors, and was available from my assembly house at the time of production.
 
-![schem](https://user-images.githubusercontent.com/2049284/144734981-38804f18-891c-490a-8813-8d35508e5607.png)
+![schem](https://user-images.githubusercontent.com/2049284/144735200-33f08565-4944-460a-a572-a2ad4e9e27c3.png)
 
-![board](https://user-images.githubusercontent.com/2049284/144734980-270bd3b6-a6fa-45b6-b08d-af1fa995f0a9.png)
+![board](https://user-images.githubusercontent.com/2049284/144735203-5e2ff470-4a39-44e0-9362-899f8e8d235c.png)
